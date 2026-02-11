@@ -1,15 +1,7 @@
-# 📈 Simple Linear Regression — Learning Log  
+# 📈 MACHINE LEARNING
 
 **Date:** 10 February 2026  
 **Author:** Vivek Kumar  
-
----
-
-## 📌 Overview  
-
-On **10 Feb 2026**, I learned the fundamentals of **Simple Linear Regression**, one of the most important algorithms in Machine Learning and Statistics. This project demonstrates how to model the relationship between two variables using a straight line (Best Fit Line).
-
-Simple Linear Regression helps predict a dependent variable (target) using one independent variable (feature).
 
 ---
 
@@ -26,6 +18,13 @@ y = β₀ + β₁X
   - **β₁ (Slope)** → change in y when X increases by 1 unit  
 - How model finds **Best Fit Line**
 - Error and Cost Function
-- Model training using `LinearRegression()` from sklearn  
+- Model training using `LinearRegression()` from sklearn
+- ### 📊 Model Evaluation Learned  
+
+- MAE (Mean Absolute Error)  
+- MSE (Mean Squared Error)  
+- RMSE (Root Mean Squared Error)  
+- R² Score (Model accuracy)  
+- Adjusted R² Score
 
 ---
